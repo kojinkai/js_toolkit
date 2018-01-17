@@ -10,4 +10,4 @@ const withLoaderWhileLoading = branch(
   renderComponent(Loader),
 );
 
-WithLoaderWhileLoading(ReceiptsColumnComponent);
+WithLoaderWhileLoading(UIComponent);
